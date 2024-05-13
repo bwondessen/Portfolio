@@ -68,6 +68,7 @@ a {
 
 footer {
     margin-top: 100px;
+    margin-left: 40px;
 }
 
 @media screen and (max-width: 500px) {
