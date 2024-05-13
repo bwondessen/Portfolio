@@ -21,6 +21,12 @@ nav {
     padding-top: 30px;
 }
 
+#title, #welcome-section p {
+    text-align: center;
+    position: relative;
+    top: 50%;
+}
+
 div {
     width: 350px;
     height: 375px;
