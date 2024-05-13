@@ -6,10 +6,19 @@ body {
     margin-left: 0;
 }
 
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 40px;
+    background-color: yellow;
+}
+
 #welcome-section {
     background-color: #a2d2ff;
     width: 100vw;
     height: 100vh;
+    padding-top: 30px;
 }
 
 div {
