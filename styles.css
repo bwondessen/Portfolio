@@ -18,3 +18,10 @@ a {
     width: 100%;
     height: 100%;
 }
+
+@media screen and (max-width: 500px) {
+    div {
+        width: 300px;
+        height: 321px;
+    }
+}
