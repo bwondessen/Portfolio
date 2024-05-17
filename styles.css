@@ -33,11 +33,16 @@ h2 {
     text-align: center;
 }
 
+#projects {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
 div {
     width: 350px;
     height: 196.88px;
     margin-left: 40px;
-    background-color: #778da9;
+    /* background-color: #778da9; */
 }
 
 a {
